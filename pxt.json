@@ -1,0 +1,21 @@
+{
+    "name": "Zero",
+    "version": "1.0.1",
+    "description": "Extension for Matrix:bit Zero  V1.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel",
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/Zero-strings.json",
+        "_locales/zh-tw/Zero-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
